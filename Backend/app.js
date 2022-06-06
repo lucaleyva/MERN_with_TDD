@@ -1,6 +1,6 @@
 class MessageApp {
-    constructor() {
-      this.messages = []
-    }
+  constructor() {
+    this.messages = [];
   }
-  export default MessageApp
+}
+export default MessageApp;

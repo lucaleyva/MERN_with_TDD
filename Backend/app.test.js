@@ -1,4 +1,3 @@
-// app.test.js
 import { expect } from 'chai';
 import MessageApp from './app.js';
 describe('app', function () {
